@@ -1,9 +1,12 @@
 body {
-  background-color: #f1f1f1;
-	font-family: Arial, sans-serif;
+  background-color:#f1f1f1;
+  margin-inline:50px;
+}
+section {
+  padding-inline:10px;
 }
 .book-library {
-  background-color: #ffffff;
+  background-color:#ffffff;
 }
 figure {
   text-align:center;
@@ -23,5 +26,9 @@ figure {
   color:white;
 }
 h1 {
+  font-weight:bolder;
   text-align:center;
+}
+h2 {
+  font-weight:bolder;
 }
