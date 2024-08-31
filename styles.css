@@ -11,12 +11,18 @@ body{
 .book{
 	margin-bottom: 20px;
 }
+.price{
+	background-color: rgba(0, 0, 0, 0);
+}
+.author{
+	background-color: rgb(119, 119, 119);
+}
+
 .book-description .title,
 .book-description .author,
 .book-description .price {
     margin: 0;
 	background-color: rgba(0, 0, 0, 0);
-	color: black;
 }
 .img{
 	display: block;
