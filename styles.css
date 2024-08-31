@@ -15,6 +15,8 @@ body{
 .book-description .author,
 .book-description .price {
     margin: 0;
+	background-color: rgba(0, 0, 0, 0);
+	color: black;
 }
 .img{
 	display: block;
@@ -31,5 +33,6 @@ body{
 	background-color: rgb(46, 204, 113);
 	color: white;
 	border: none;
+	border-radius:0px;
 	font-size: 20px;
 }
